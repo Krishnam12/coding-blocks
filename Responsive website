@@ -89,8 +89,8 @@ HTML
     <div class="footerContainer" id="footerContainer">
         <footer>
             <p>Author:krishnam<br>
-                <span>&copy;2021 Projects by krishnam</span>
-            <a href="" style="text-decoration: underline; color: #000;">/</a></p>
+                
+            <a href="" style="text-decoration: underline; color: #000;"></a></p>
           </footer>
 
 CSS
